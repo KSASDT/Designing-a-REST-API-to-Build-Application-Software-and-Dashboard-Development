@@ -8,19 +8,6 @@ objective is to create REST API using Spring MVC that connects the back-end data
 the dashboard for CaLeLa users. The dashboard includes the applications such as task list, event calendar, alerts and notifications,
 contact list, note etc.
 
-File and Directory Structure:
----------------------------
-
-Files includes:
-            
-			UserManaggingController.java           : REST API built in Java
-			UserManaggingController.java           : MVC for REST in java
-			Task_list.html                         : Task list application for Dashboard
-			Login.html                             : User login interface
-                    Calender.html                          : Calendar for Calela user
-                    Page_notes.html                        : To add notes
-                    Page_contactList.html                  : Contact list for user
-                    Notify.html                            : Notification to user
 
 
 Functional description of the project is as follows:
