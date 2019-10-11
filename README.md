@@ -1,6 +1,6 @@
 # Designing-a-REST-API-to-Build-Application-Software-and-Dashboard-Development
 
-<img src="rest pi.jpg" >
+<img src="Dashboard.jpg" height="42" width="90">
 
 Description
 --------------
