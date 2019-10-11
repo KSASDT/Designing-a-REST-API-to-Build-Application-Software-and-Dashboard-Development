@@ -2,6 +2,8 @@
 
 <img src="Dashboard.jpg" height="42" width="90">
 
+![Dashboard](https://user-images.githubusercontent.com/26916595/66642488-7c595b80-ec3a-11e9-9435-679ce4599163.JPG)
+
 Description
 --------------
 This is the summer internship project done by me in the year 2017 at CaLeLa(Blue Anchor Private Limited) Bandra, Mumbai. The main 
